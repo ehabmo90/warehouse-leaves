@@ -1,0 +1,6 @@
+{
+  "name": "Leaves",
+  "description": "نظام إدارة إجازات المخازن - Leaves Warehouse Leave Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
